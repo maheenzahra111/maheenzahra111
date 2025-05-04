@@ -1,37 +1,34 @@
-👋 Hi, I’m Maheen Zahra
+# 👋 Hi, I’m Maheen Zahra  
 🎓 MSc Data Science student at the University of Manchester  
-💡 Passionate about turning raw data into insights through EDA, visualization, and applied machine learning.
+💡 Passionate about transforming raw data into insights through EDA, visualization, and applied machine learning  
 
-🔧 I’m currently working on:
+---
 
-- Building deep learning models for customer churn and stock price prediction using LSTM and random forests.  
-- Creating visual storytelling dashboards to uncover patterns in telecom and e-commerce datasets.
+## 🔧 Currently Working On  
+- Developing deep learning models for customer churn prediction and stock price forecasting using LSTM and random forests  
+- Creating data storytelling dashboards to uncover patterns in telecom and e-commerce datasets  
 
-🌱 I’m currently learning:
+## 🌱 Currently Learning  
+- Transformer architectures, large language models (LLMs), and retrieval-augmented generation (RAG)  
+- Advancing my skills in NLP and deep learning to tackle real-world challenges  
 
-- Transformer architectures, large language models (LLMs), and retrieval-augmented generation (RAG).  
-- Enhancing my NLP and deep learning skills to better solve real-world problems.
+## 👯 Looking to Collaborate On  
+- AI and NLP projects involving LLMs, RAG, or time-series forecasting  
+- EDA-focused projects that emphasize visual storytelling and business insights  
+- Data science applications in fintech, e-commerce, or marketing  
 
-👯 I’m looking to collaborate on:
+## 🤔 Looking for Help With  
+- Fine-tuning transformer models for real-world applications in finance and tech  
 
-- AI and NLP-based projects using LLMs, RAG and time-series forecasting.  
-- EDA-rich projects focused on storytelling and deriving business insights through data.
-- Innovative data science solutions in fintech, e-commerce, or marketing.
-
-🤔 I’m looking for help with:
-
-- Fine-tuning transformer models for practical use cases in finance and tech.
-
-💬 Ask me about:
-
-- Exploratory Data Analysis (EDA) & Data Visualization  
+## 💬 Ask Me About  
+- Exploratory Data Analysis (EDA) & Data Visualization
+- Predictive Analytics & Machine Learning Models   
 - Deep Learning & NLP  
-- Predictive Analytics & ML Models  
-- Communicating data insights to stakeholders  
+- Communicating Data Insights to Stakeholders 
 
 📫 Reach me at: maheenzahra111@gmail.com | [LinkedIn](https://www.linkedin.com/in/maheen-z-6b1325251/)  
 😄 Pronouns: She/Her  
-⚡ Fun fact: I once pulled an all-nighter transforming chaotic data into a clean, visual story that revealed trends even the client didn’t expect!
+⚡ Fun fact: I once pulled an all-nighter learning Seaborn (a Python library for advanced statistical visualization) — and using it to create compelling visualizations that revealed unexpected insights.
 
 <!---
 maheenzahra111/maheenzahra111 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
